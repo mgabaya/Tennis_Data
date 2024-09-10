@@ -4,3 +4,6 @@ This personal project is intended to discover player strategies on the ATP Tour 
 
 Credit for the original data: [Tennis Data](https://www.kaggle.com/datasets/ryanthomasallen/tennis-match-charting-project)
 
+## Data Visualizations
+
+![Federer's Aces vs the Competition](/images/fed_aces.png)
